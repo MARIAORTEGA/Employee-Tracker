@@ -1,7 +1,7 @@
 # EMPLOYEE-TRACKER 🌸
--Content Management Tracker using node, inquirer, and MySQL
+(Content Management Tracker using node, inquirer, and MySQL)
 
--database schema with 3 tables:
+------database schema with 3 tables------
 
 department:
 id - INT PRIMARY KEY
@@ -19,3 +19,13 @@ first_name - VARCHAR(30) to hold employee first name
 last_name - VARCHAR(30) to hold employee last name
 role_id - INT to hold reference to role employee has
 manager_id - INT to hold reference to another employee that manages the employee being Created. This field may be null if the employee has no manager
+
+
+------build  command-line application that allows the user to-----
+
+* Add departments, roles, employees
+
+***** View departments, roles, employees*****
+
+
+* Update employee roles
