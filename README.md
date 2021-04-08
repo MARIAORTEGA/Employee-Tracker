@@ -32,3 +32,7 @@ manager_id - INT to hold reference to another employee that manages the employee
 
 https://user-images.githubusercontent.com/71056915/114062083-1cf6fe80-9865-11eb-9ba8-738ad29be1e8.mp4
 
+
+
+
+![employee-tracker](https://user-images.githubusercontent.com/71056915/114066351-a27cad80-9869-11eb-9311-c46183de86f2.gif)
