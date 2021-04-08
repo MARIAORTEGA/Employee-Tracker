@@ -106,9 +106,36 @@ function viewData() {
       if (answer.viewAdd === "departments"){
         connection.query("SELECT * FROM department", function(err, res) {
            if (err) throw err;
-           console.table (res)
+           console.table (res);
+           start();
+
+
+
+
+
+
+
+
+
+
+
+
           })
         }
+
+  
+
+
+       
+        
+
+
+
+
+                      
+        
+
+
   // connection.query("SELECT * FROM employee", function(err, res) {
   //   if (err) throw err;
   //   // Log all results of the SELECT statement
@@ -117,6 +144,10 @@ function viewData() {
     })
   }
     
+
+
+
+
 
 //////////////////////////////////////////////////////to update departments, roles, employees
 
@@ -149,8 +180,6 @@ function updateEmployee() {
   // logs the actual query being run
   console.log(query.sql);
 }
-
-
 
 
 
