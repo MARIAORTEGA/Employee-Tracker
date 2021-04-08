@@ -29,3 +29,6 @@ manager_id - INT to hold reference to another employee that manages the employee
 
 
 * Update employee roles
+
+https://user-images.githubusercontent.com/71056915/114062083-1cf6fe80-9865-11eb-9ba8-738ad29be1e8.mp4
+
